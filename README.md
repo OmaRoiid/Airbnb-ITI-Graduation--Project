@@ -91,7 +91,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo.
    ```sh
-   git clone https://github.com/Mohamedghaly140/Airbnb-ITI-Graduation--Project.git
+   git clone https://github.com/OmaRoiid/Airbnb-ITI-Graduation--Project.git
    ```
 3. Install NPM packages.
    ```sh
